@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="qc_financial",
-    version="0.1.3",
+    version="0.1.5",
     author="Alvaro Díaz",
     author_email="alvaro@efaa.cl",
     description="Valuation of linear FX and Interest Rate Derivatives",
